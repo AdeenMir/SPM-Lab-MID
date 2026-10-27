@@ -1,0 +1,4 @@
+# Runtime: Python 3.10+ standard library only (tkinter, sqlite3)
+# Optional:
+pillow        # make_screenshots.py
+pyinstaller   # build_exe.bat
